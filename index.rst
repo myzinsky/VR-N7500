@@ -6,10 +6,16 @@
 Willkommen zur inoffiziellen Dokumentation des VR-N7500
 =======================================================
 
+.. image:: img/vr-n7500.jpg
+  :width: 400
+  :alt: VR-N7500
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+   android
+   iphone
 
 
 Inhalt
