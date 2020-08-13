@@ -12,8 +12,8 @@ Willkommen zur inoffiziellen Dokumentation des VR-N7500
 
 
 
-Indices and tables
-==================
+Inhalt
+======
 
 * :ref:`genindex`
 * :ref:`modindex`
