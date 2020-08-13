@@ -26,15 +26,8 @@ Hier eine Übersicht der Features:
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Inhalt:
 
    android
    iphone
 
-
-Inhalt
-======
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
