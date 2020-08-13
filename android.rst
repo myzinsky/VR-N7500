@@ -3,7 +3,7 @@ Android App
 
 
 JSON Kanalverwaltung
-====================
+--------------------
 
 .. code-block:: JSON
 
