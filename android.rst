@@ -143,14 +143,16 @@ JSON Kanalverwaltung
         null
      ]
   }
+
+
+
+Erklärung:
   
-  Erklärung:
-  
-  * rf: receive frequency (Empfangsfrequenz) [double]
-  * tf: transmit frequency (Sendefrequenz) [double]
-  * rs: receive subtone [int in cHz]
-  * ts: transmit subtone [int in cHz]
-  * w:  wide [bool]
-  * s: scan [bool]
-  * id: ??? [int]
-  * p: ??? [int] 
+* rf: receive frequency (Empfangsfrequenz) [double]
+* tf: transmit frequency (Sendefrequenz) [double]
+* rs: receive subtone [int in cHz]
+* ts: transmit subtone [int in cHz]
+* w:  wide [bool]
+* s: scan [bool]
+* id: ??? [int]
+* p: ??? [int] 
