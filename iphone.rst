@@ -7,4 +7,5 @@ iPhone App
 
 
 Erklärung:
+
 * Talk-Around: Deaktiviert die Ablage. Sende und Empfang auf der programmierten Empffangsfrequenz bzw. Ausgabe des Relais.
