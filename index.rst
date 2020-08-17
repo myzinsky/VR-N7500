@@ -24,6 +24,14 @@ Hier eine Übersicht der Features:
   * Bluetooth PTT
   * Bluetooth Mikrofon
 
+Community
+=========
+  
+  * Deutsche Telegram Gruppe: https://t.me/VRN7500
+  * Englische Facebook Gruppe: https://www.facebook.com/groups/2285774288379471
+  * UK Facebook Gruppe: https://www.facebook.com/groups/578663932978555
+
+
 .. toctree::
    :maxdepth: 2
    :caption: Inhalt:
